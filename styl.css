@@ -1,0 +1,10 @@
+body{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr ;
+    background-color: rgba(40, 104, 8, 0.803);
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    text-align: center;
+}
